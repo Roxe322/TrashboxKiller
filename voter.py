@@ -42,7 +42,7 @@ def vote_comment(ajax_code, comment_id):
 		'mycat': '234',
 		'type': '1',
 		'action': 'vote',
-		'vote': '-1',
+		'vote': '-1',	#  Change here to +1 if you need up-voting
 		'id': comment_id,
 		't_control': '1',
 		'ajax_code': ajax_code

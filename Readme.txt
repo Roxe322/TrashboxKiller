@@ -7,3 +7,5 @@ But this ability has been broken by site admin who changed captcha to Google ReC
 So you still can register account manually and vote from them with this script.
 
 File regger.py is here just for history.
+
+Also, I added test account and test comments to files, so you can just run it and check how it works (link for topic where comments will be voted: https://trashbox.ru/topics/117601/kak-ustanavlivat-obnovleniya-telegram-v-obhod-app-store)
